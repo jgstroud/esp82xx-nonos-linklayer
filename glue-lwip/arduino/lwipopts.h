@@ -1249,7 +1249,7 @@
  * TCP_MAXRTX: Maximum number of retransmissions of data segments.
  */
 #if !defined TCP_MAXRTX || defined __DOXYGEN__
-#define TCP_MAXRTX                      12
+#define TCP_MAXRTX                      2
 #endif
 
 /**
